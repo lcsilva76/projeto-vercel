@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>Vamos ver se agora vai!!!!</p>
+        <p>Vamos ver se agora vai!!!!</p>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
